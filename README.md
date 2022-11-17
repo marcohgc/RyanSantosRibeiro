@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div><h1>OI</h1></div>
+<div><h1 style='color:blue'>OI</h1></div>
 <!--
 **RyanSantosRibeiro/RyanSantosRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
